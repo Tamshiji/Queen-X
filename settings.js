@@ -15,20 +15,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916201114061,919728714060'] //ur owner number
+global.owner = ['916201114061'] //ur owner number
 global.ownername = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur owner name
 global.ytname = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur yt chanel name
 global.socialm = "👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•👸🏻" //ur github or insta name
 global.location = "India, Jharkhand, Latehar, Balumath" //ur location
 
 //bot bomdy 
-global.ownernomer = "916201114061,919728714060" //ur number
-global.premium = ['916201114061,919728714060,'] //ur premium number
+global.ownernomer = "916201114061" //ur number
+global.premium = ['916201114061'] //ur premium number
 global.botname = '•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
-global.themeemoji = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•🛸" //ur theme emoji
+global.themeemoji = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄ 🛸" //ur theme emoji
 global.packname = "   👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•👸🏻" //ur sticker watermark packname
 global.author = "   👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
 global.wm = "👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•👸🏻." //ur watermark
